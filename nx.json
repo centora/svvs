@@ -29,7 +29,8 @@
   "projects": {
     "backend-api": {
       "tags": [
-        "type:app"
+        "type:app",
+        "scope:backend-api"
       ]
     },
     "frontend-admin": {
